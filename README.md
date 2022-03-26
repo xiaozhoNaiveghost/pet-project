@@ -1,5 +1,5 @@
 # pet-project
-Vue实战项目篇-宠物和动物
+Vue实战项目篇-音乐
 
 
 ### Compiles and hot-reloads for development
